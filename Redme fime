@@ -1,0 +1,14 @@
+git clone https://github.com/yourusername/budget-app.git
+
+/app
+  /src
+    /main
+      /java/com/yourname/budgetapp
+        - MainActivity.kt
+        - Data classes (Income.kt, Expense.kt)
+        - ViewModels
+        - Repositories
+      /res
+        - layout/
+        - drawable/
+        - values/
